@@ -48,7 +48,7 @@ __ https://bitbucket.org/grandpas/e.bash
 ::
 
   C / Bash
-  2014-08--present
+  2014-08--present (Fork, Maintainer)
 
 It was a fork of Dimitromanolakis Apostolos' e *tiny expression evaluator* in
 2001.  I forked it in 2014 to make it a built-in of Bash for performance.
