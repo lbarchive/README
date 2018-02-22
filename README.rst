@@ -8,6 +8,26 @@ README: *The Profile of Yu Jie Lin*
    :backlinks: top
 
 
+Places
+======
+
+* Codes_
+* `YouTube`_
+
+.. _Codes: Codes#repositories
+.. _YouTube: https://www.youtube.com/user/livibetter
+
+
+Social Media
+============
+
+* reddit `u/livibetter`_
+* Twitter `@lyjl`_
+
+.. _u/livibetter: https://www.reddit.com/user/livibetter/
+.. _@lyjl: https://twitter.com/lyjl
+
+
 Copyright
 =========
 
