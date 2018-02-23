@@ -57,6 +57,7 @@ pipes.sh_: Animated pipes terminal screensaver
 
   Bash / Linux
   2013-02-01--2015-05-05
+  2018-02-11--present    (Maintainer, interim)
 
 I modified the original pipes.sh and put it on Gist, later moved to GitHub, and
 created Pipeseroni.
