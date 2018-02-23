@@ -24,7 +24,7 @@ glsr.sh_: Go Left, Straight, or Right?
 
 Other links:
 `screenshots <https://imgur.com/a/XGvz5>`__
-`screencast <https://www.youtube.com/watch?v=6_YDc8xZZ2g>`__
+`YouTube <https://www.youtube.com/watch?v=uofkUcIIoS0>`__
 
 
 pipes.sh_: Animated pipes terminal screensaver
