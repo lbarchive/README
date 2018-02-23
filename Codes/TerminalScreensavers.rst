@@ -10,6 +10,25 @@ Terminal Screensavers
 Screensavers
 ============
 
+`Blue Ocean`_: Procedural Blue, Endless Generation
+--------------------------------------------------
+
+.. _Blue Ocean: https://github.com/lbgists/blue-ocean
+.. figure:: i/blue-ocean.png
+   :target: `Blue Ocean`_
+
+::
+
+  Bash / Linux / 256-color/[24-bit-color] terminal
+  2013-10-20--present
+
+It generates an ocean look graphics in terminal, and also has Gray Canyon and
+Rainbow.
+
+Other links:
+`YouTube <https://www.youtube.com/watch?v=6uM2dv5siqA>`__
+
+
 glsr.sh_: Go Left, Straight, or Right?
 --------------------------------------
 
